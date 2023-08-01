@@ -14,7 +14,7 @@ In this challenge I analyized fictionalized food hygiene ratings from the UK Foo
 
 3. What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
-    #### [fill in here]
+    #### There are 87 establishments near Penang Flavours with a Rating Value of 5. 
 
 4. How many establishments in each Local Authority area have a hygiene score of 0 (best score)? 
 
